@@ -29,4 +29,4 @@ If user face internet connection problem or access denied by Google for too many
 The FreqByArea.java gives a visualization for the frequency count classified by Zipcode (left map) and Borough (right map), and the more red in the area means accident happens more frequently, and the more blue it is, that mean accidents happened less frequently.
 
 ##MySQL queries
-SQL part for Columbia University EECS 6893 project
+SQL part for data collection and preprocessing.
