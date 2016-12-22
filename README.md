@@ -1,6 +1,11 @@
 # Analysis of Motor Vehicle Collisions of NYC
-## VisualizionUnfoldingMap
 This is for the final project of Columbia University EECS 6863 Big Data Analytics course in Fall 2016.
+Group 43
+qy2179
+yx2382
+wg2297
+
+## VisualizionUnfoldingMap
 
 ###The visualization part is based on UnfoldingMap and Processing packages and it is shown as a Java Applet.
 * Unfolding Map doc: http://unfoldingmaps.org/
