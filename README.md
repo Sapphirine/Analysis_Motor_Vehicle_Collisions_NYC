@@ -1,9 +1,7 @@
 # Analysis of Motor Vehicle Collisions of NYC
 This is for the final project of Columbia University EECS 6863 Big Data Analytics course in Fall 2016.
-Group 43
-qy2179
-yx2382
-wg2297
+* Group 43
+* qy2179,yx2382,wg2297
 
 ## VisualizionUnfoldingMap
 
