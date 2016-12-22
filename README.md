@@ -1,4 +1,4 @@
-# Analysis_Motor_Vehicle_Collisions_NYC
+# Analysis of Motor Vehicle Collisions of NYC
 ## VisualizionUnfoldingMap
 This is for the final project of Columbia University EECS 6863 Big Data Analytics course in Fall 2016.
 
